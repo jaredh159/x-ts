@@ -1,8 +1,8 @@
 {
-  "name": "x-ts",
+  "name": "x-ts-utils",
   "version": "1.0.0",
-  "description": "A modest little Typescript helper library",
-  "repository": "github:jaredh159/x-ts",
+  "description": "simple colored terminal output - wrapper around `chalk`",
+  "repository": "github:jaredh159/x-ts-utils",
   "main": "./dist/index.js",
   "browser": "./src/index.ts",
   "sideEffects": false,
