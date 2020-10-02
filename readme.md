@@ -1,4 +1,4 @@
-# x-ts
+# x-ts-utils
 
 A modest little Typescript helper library. Currently, consists of 3 helper functions,
 mostly for getting type-safety when doing functional things:
