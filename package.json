@@ -1,6 +1,6 @@
 {
   "name": "x-ts-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modest little Typescript helper library",
   "repository": "github:jaredh159/x-ts-utils",
   "main": "./dist/index.js",
